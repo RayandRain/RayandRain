@@ -2,14 +2,14 @@
 
 ## 🚀 About Me
 - 🔬 **Research Focus**: Modern and Contemporary Chinese History, Digital Humanities
-- �� **Programming**: C, C++, Python
+- 💻 **Programming**: C, C++, Python
 - 🎓 **Education**: 
   - Bachelor of Engineering in Electronic Information Engineering, CUHK(SZ)
   - Master of Arts in Chinese Historical Studies, The University of Hong Kong
 
 ## 🔬 Current Projects
 - **[A-Special-Case-in-e-Philology](https://github.com/RayandRain/A-Special-Case-in-e-Philology)**: Research project using three open-source tools for digital text analysis
-- **[Ray](https://github.com/RayandRain/Ray)**: Academic personal website template
+
 
 ## 📈 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RayandRain&theme=redical)
