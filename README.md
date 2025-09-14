@@ -16,6 +16,7 @@
 
 ## 📫 How to reach me
 - 📧 Email: 1667724787@qq.com
+- 📧 Email: u3642567@connect.hku.hk
 - 🐙 GitHub: [@RayandRain](https://github.com/RayandRain)
 
 ---
